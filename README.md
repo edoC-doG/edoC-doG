@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NodeJS, AWS, Express.**
 
-- 💬 Ask me about **ReactJs and everything about Front-end Web**
+- 💬 Ask me about **ReactJs and everything about Front-end Web in my knowledge**
 
 - 📫 How to reach me **longnmse@gmail.com**
 
